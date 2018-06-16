@@ -1,0 +1,16 @@
+{
+  "name": "react boilerplate",
+  "theme_color": "#b1624d",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256",
+      "type": "image/ico"
+    }
+  ],
+  "splash_pages": null
+}

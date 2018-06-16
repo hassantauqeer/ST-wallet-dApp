@@ -1,0 +1,19 @@
+.app {
+  .container {
+    width: 75%;
+    margin: 0px auto;
+    .custom-column {
+      text-align: left;
+    }
+    .ant-card-head-title{
+      text-align: center;
+    }
+    .ant-tabs-bar {
+      width: 100%;
+      .ant-tabs-nav-container {
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+}
